@@ -7,3 +7,5 @@
 - 👯 I’m looking to collaborate! Watch out for PRs
 - 💡 I'm seeking to learn more about good and clean software designs
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/norman-aberin/)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=naberin&theme=alduin&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
