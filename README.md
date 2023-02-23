@@ -9,7 +9,7 @@
 - 🤖 I'm loving full-stack web development
 - 👯 I’m looking to collaborate! Watch out for PRs
 - 💡 I'm seeking to learn more about good software design
-- 🤖 I'm an SME for Oracle APEX, Oracle's Low-Code PaaS solution
+- 🤖 I'm an Oracle Developer Advocate
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/norman-aberin/)
 
 
